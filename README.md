@@ -119,7 +119,6 @@ SOFTWARE.
 
 
 ## 以下是一些该工具的生成图像和作品展示
-![生成图像 1](terrain-brush.png "")
-![生成图像 2](terrain-brush1.png "")
-![生成图像 3](terrain-brush2.png "")
-![作品截图](terrain-brush.png "")
+![生成图像 1](terrain-brush.png "生成图像 1")
+![生成图像 2](terrain-brush1.png "生成图像 2")
+![作品截图](2025-07-23_21.03.13.png "作品截图")
