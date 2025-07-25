@@ -119,3 +119,7 @@ SOFTWARE.
 
 
 ## 以下是一些该工具的生成图像和作品展示
+![生成图像 1](t-r-r114/MDTGenToo/terrain-brush.png "")
+![生成图像 2](t-r-r114/MDTGenToo/terrain-brush1.png "")
+![生成图像 3](t-r-r114/MDTGenToo/terrain-brush2.png "")
+![作品截图](t-r-r114/MDTGenToo/terrain-brush.png "")
