@@ -115,8 +115,8 @@ SOFTWARE.
 
 ## 关于作者
 
-由 trr 个人开发，TrrSwLabs 出品。
-
+- 由 trr 个人开发，TrrSwLabs 出品。
+- 联系方式：trrt10861@gmail.com
 
 ## 以下是一些该工具的生成图像和作品展示
 ![生成图像 1](terrain-brush.png "生成图像 1")
