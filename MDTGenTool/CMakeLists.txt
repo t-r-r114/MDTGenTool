@@ -19,6 +19,7 @@ qt_add_qml_module(appMDTGenTool
     QML_FILES
         Main.qml
         SOURCES mdtgentool.h mdtgentool.cpp
+        SOURCES
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
