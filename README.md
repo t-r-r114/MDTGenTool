@@ -32,27 +32,6 @@ MDTGenTool 是一款由 trr 个人开发、TrrSwLabs 出品的地形生成工具
 | v1.2.0 | 增加侵蚀功能 |
 | v1.2.8 | 增加了obj导出 |
 
-## 项目结构
-
-```
-MDTGenTool/
-├── LICENSE                  # MIT 许可证文件
-├── MDTGenTool/              # 基础版本代码目录
-│   ├── CMakeLists.txt       # 构建配置文件
-│   ├── CMakeLists.txt.user  # 本地构建用户配置
-│   ├── Main.qml             # QML 界面文件
-│   ├── main.cpp             # 程序入口
-│   ├── mdtgentool.cpp       # 核心功能实现（PGM输出）
-│   └── mdtgentool.h         # 核心类头文件
-└── MDTGenTool v1.0.1/       # v1.0.1 版本代码目录
-    ├── CMakeLists.txt       # 构建配置文件
-    ├── CMakeLists.txt.user  # 本地构建用户配置
-    ├── Main.qml             # QML 界面文件
-    ├── main.cpp             # 程序入口
-    ├── mdtgentool.cpp       # 核心功能实现（PNG输出）
-    └── mdtgentool.h         # 核心类头文件（含QImage依赖）
-```
-
 ## 构建与使用
 
 ### 构建环境
