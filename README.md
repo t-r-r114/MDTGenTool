@@ -94,11 +94,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 关于作者
-
-- 由 trr 个人开发，TrrSwLabs 出品。
-- 联系方式：3778302520@qq.com
-
 ## 以下是一些该工具的生成图像和作品展示(基础版)
 ![生成图像 1](terrain-brush.png "生成图像 1")
 ![生成图像 2](terrain-brush1.png "生成图像 2")
